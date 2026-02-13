@@ -128,11 +128,6 @@ Deployment using cloud platforms
 
 This project is developed as part of an academic requirement to demonstrate full-stack web development using the MERN stack.
 
-👨‍💻 Developed By
-
-Your Name
-Department Name
-College Name
 
 ⭐ Conclusion
 
